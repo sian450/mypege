@@ -1,0 +1,36 @@
+body {text-align:center}	
+
+h1
+ 	{
+		background:#ffd700; 
+		font-size:15p;
+ 	}
+ 	
+h2
+	{
+		color:red;
+		width:400px;
+		background: yellow;
+		margin:0px auto;
+		border: 1px solid black;
+		border-radius: 10px
+	}	
+	
+	dvi.sty1
+	{
+		color:#9400d3;
+	}
+	
+div.inlineblock
+	{
+	display:	inline-block;
+	}
+div.Calculator
+	{
+		width:400px;
+		background: yellow;
+		margin:0px auto;
+		border: 1px solid black;
+		border-radius: 10px
+
+	}
